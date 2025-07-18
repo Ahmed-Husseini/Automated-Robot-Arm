@@ -1,6 +1,6 @@
 # Automated-Robot-Arm
 
-An embedded robotic system that classifies and sorts colored objects using a robotic arm controlled by an STM32F103C8T6 microcontroller. This project was developed as part of the **Mechatronics Engineering MCTR601** course at the **German University in Cairo** (Spring 2025).
+An embedded robotic system that classifies and sorts colored objects using a robotic arm controlled by an STM32F103C8T6 microcontroller.
 
 ---
 
