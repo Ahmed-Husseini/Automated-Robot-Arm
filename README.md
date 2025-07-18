@@ -47,7 +47,7 @@ The goal of this project is to design, build, and program a robotic arm capable 
 ## 📐 Control Design
 
 - DC motor and potentiometer were separated from prebuilt servo loop.
-- System modeled and linearized:
+- System modeled and linearized with MATLAB:
   - Moment of Inertia: 0.01 kg·m²
   - Transfer function derived and simulated.
 - PID controller designed using MATLAB:
